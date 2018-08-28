@@ -1,2 +1,2 @@
 # cloud-sample-webhooks
-Webhooks functionality to send SCP alerts to a on premise system
+Repository containing several examples how to use Alert Webhooks in SCP
