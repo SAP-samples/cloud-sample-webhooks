@@ -13,10 +13,10 @@ See [Getting Started](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf
 - You have downloaded and initially configured the Cloud Connector. For this tutorial, you can use the portable version. See [Cloud Connector](https://help.sap.com/viewer/cca91383641e40ffbe03bdc78f00f681/Cloud/en-US/e6c7616abb5710148cfcf3e75d96d596.html).
 
 ## Download and Installation
-Download the project as a ZIP file and then extract it into a local folder. Finally, import the folder into Eclipse as a Maven project. [See the Tutorial for further details]().
+Download the project as a ZIP file and then extract it into a local folder. Finally, import the folder into Eclipse as a Maven project. [See the Tutorial for further details](https://developers.sap.com/tutorials/cp-monitoring-alerts-onpremise.html).
 
 ## Configuration
-Build a WAR file from Eclipse and deploy it on SAP Cloud Platform. You also need to deploy the WAR locally on your on-premise system. Furthermore, you need to configure the cloud connector and the destination. [See the Tutorial for further details]().
+Build a WAR file from Eclipse and deploy it on SAP Cloud Platform. You also need to deploy the WAR locally on your on-premise system. Furthermore, you need to configure the cloud connector and the destination. [See the Tutorial for further details](https://developers.sap.com/tutorials/cp-monitoring-alerts-onpremise.html).
 
 ## Support
 This project is 'as-is'. We do not provide support and will not make changes. You are welcome to make changes to improve the project but we are not available for questions or support of any kind.
