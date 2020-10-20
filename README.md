@@ -1,5 +1,8 @@
 # Use Alert Webhooks from Cloud to On-Premise Monitoring
 
+## Badge
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-sample-webhooks)](https://api.reuse.software/info/github.com/SAP-samples/cloud-sample-webhooks)
+
 ## Description
 The cloud to on-premise project helps you configure a connection so that you can receive your alerts locally. This project contains two servlets, one used for the webhook functionality that is uploaded on the cloud, and another for the on-premise processing of the received alerts. For the connection between SAP Cloud Platform and the on-premise backend system, you need to configure a cloud connector and a destination.
 
