@@ -1,6 +1,5 @@
 # Use Alert Webhooks from Cloud to On-Premise Monitoring
 
-## Badge
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/cloud-sample-webhooks)](https://api.reuse.software/info/github.com/SAP-samples/cloud-sample-webhooks)
 
 ## Description
@@ -26,4 +25,4 @@ This project is 'as-is'. We do not provide support and will not make changes. Yo
 
 ## License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the Apache Software License, v. 2 except as noted otherwise in the LICENSE file. See [LICENSE](LICENSES/Apache-2.0.txt).
+This project is licensed under the Apache Software License, v. 2 except as noted otherwise in the LICENSE file. See [LICENSE](LICENSES/Apache-2.0.txt).
