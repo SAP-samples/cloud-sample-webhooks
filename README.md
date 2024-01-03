@@ -24,5 +24,5 @@ Build a WAR file from Eclipse and deploy it on SAP BTP, Neo environment. You als
 This project is 'as-is'. We do not provide support and will not make changes. You are welcome to make changes to improve the project but we are not available for questions or support of any kind.
 
 ## License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
+Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved.
 This project is licensed under the Apache Software License, v. 2 except as noted otherwise in the LICENSE file. See [LICENSE](LICENSES/Apache-2.0.txt).
